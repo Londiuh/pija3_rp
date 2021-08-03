@@ -3,8 +3,8 @@
     {
       "type": "bitmap",
       "file": "pija3:fx/black.png",
-      "ascent": 128,
       "height": 700,
+      "ascent": 128,
       "chars": [
         "1"
       ]

@@ -3,8 +3,8 @@
 		{
 			"type": "bitmap",
 			"file": "minecraft:gui/container/brewing_guide_left.png",
-			"ascent": 13,
 			"height": 166,
+			"ascent": 13,
 			"chars": [
 				"\uEff1"
 			]
@@ -12,8 +12,8 @@
 		{
 			"type": "bitmap",
 			"file": "minecraft:gui/container/brewing_guide_right.png",
-			"ascent": 13,
 			"height": 166,
+			"ascent": 13,
 			"chars": [
 				"\uEff2"
 			]
@@ -21,8 +21,8 @@
 		{
 			"type": "bitmap",
 			"file": "minecraft:misc/hunger_half.png",
-			"ascent": 8,
 			"height": 16,
+			"ascent": 8,
 			"chars": [
 				"\uEff3"
 			]
@@ -30,8 +30,8 @@
 		{
 			"type": "bitmap",
 			"file": "minecraft:misc/hunger_full.png",
-			"ascent": 8,
 			"height": 16,
+			"ascent": 8,
 			"chars": [
 				"\uEff4"
 			]

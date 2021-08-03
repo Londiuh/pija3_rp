@@ -1,64 +1,64 @@
 {
-  "_author": "londiuh",
+	"_author": "londiuh",
 
-  "n": "\n",
-  "2n": "\n\n",
+	"n": "\n",
+	"2n": "\n\n",
 
-  "advancements.pija3.root.title": "Logros de Panorama",
-  "advancements.pija3.discord.title": "Discord",
-  "advancements.pija3.discord.description": "Obtén un enlace a nuestro Discord usando /discord",
-
-
-  "notification.discord": "Únete a nuestro Discord con /discord",
-  "notification.promo": "Promociona el server y obtén recompensas",
-  "notification.promo_info": "Más información con /promo",
-  "notification.rules": "Cumple las normas para no ser baneado",
-  "notification.rules_read": "Lee las normas con /normas",
+	"advancements.pija3.root.title": "Logros de Panorama",
+	"advancements.pija3.discord.title": "Discord",
+	"advancements.pija3.discord.description": "Obtén un enlace a nuestro Discord usando /discord",
 
 
-  "pija3.commands.city.success": "Has viajado a ciudad %s. Estás en %s",
-  "pija3.commands.city.playerCreated": "Ciudad construida por %s",
-  "pija3.commands.city.unknownCity": "Ciudad desconocida",
-  "pija3.commands.city.unknownLocation": "Localización desconocida",
-
-  "pija3.commands.discord.clickHere": "§aHaz clic aquí para unirte a nuestro §9§lDiscord",
-
-  "pija3.commands.job.success": "Trabajo aplicado correctamente",
-  "pija3.commands.job.noSuchJob": "Ese trabajo no existe",
+	"notification.discord": "Únete a nuestro Discord con /discord",
+	"notification.promo": "Promociona el server y obtén recompensas",
+	"notification.promo_info": "Más información con /promo",
+	"notification.rules": "Cumple las normas para no ser baneado",
+	"notification.rules_read": "Lee las normas con /normas",
 
 
-  "pija3.jobmenu.choose": "Elije un trabajo:\n\n",
-  "pija3.jobmenu.tutorial": "\n\nElije tu trabajo haciendo clic.",
-  "pija3.jobmenu.alert": "⚠Los trabajos son permanentes⚠",
-  "pija3.jobmenu.description": "\nDescripción:\n",
-  "pija3.jobmenu.tools": "\n\nHerramientas:\n",
-  "pija3.jobmenu.categories": "Categorias:\n\n",
+	"pija3.commands.city.success": "Has viajado a ciudad %s. Estás en %s",
+	"pija3.commands.city.playerCreated": "Ciudad construida por %s",
+	"pija3.commands.city.unknownCity": "Ciudad desconocida",
+	"pija3.commands.city.unknownLocation": "Localización desconocida",
 
-  "pija3.jobmenu.category.normal": "Trabajos humildes",
-  "pija3.jobmenu.category.badguys": "Maleantes",
-  "pija3.jobmenu.category.government": "Gobierno",
+	"pija3.commands.discord.clickHere": "§aHaz clic aquí para unirte a nuestro §9§lDiscord",
 
-  "pija3.jobmenu.job.farmer.title": "§6Granjero",
-  "pija3.jobmenu.job.farmer.description": "Siembra",
-  "pija3.jobmenu.job.farmer.tools": "-Hazada\n-Semillas\n-Cubo de agua",
-  
-  "pija3.jobmenu.job.miner.title": "§7Minero",
-  "pija3.jobmenu.job.miner.description": "Pica",
-  "pija3.jobmenu.job.miner.tools": "-Pico de hierro\n-Antorchas",
-
-  "pija3.jobmenu.job.fisherman.title": "§3Pescador",
-  "pija3.jobmenu.job.fisherman.description": "Tira la caña y pesca.",
-  "pija3.jobmenu.job.fisherman.tools": "-Caña de pescar",
-
-  "pija3.jobmenu.job.police.title": "§9Policía",
-  "pija3.jobmenu.job.police.description": "Patrulla las calles y detén a los delincuentes",
-  "pija3.jobmenu.job.police.tools": "-Traje policial\n-Porra\n-Escudo policial\n-Taser",
+	"pija3.commands.job.success": "Trabajo aplicado correctamente",
+	"pija3.commands.job.noSuchJob": "Ese trabajo no existe",
 
 
-  "pija3.jobmenu.job.criminal.title": "§cDelincuente",
-  "pija3.jobmenu.job.criminal.description": "Roba, trafica, mata...",
-  "pija3.jobmenu.job.criminal.tools": "-nose",
+	"pija3.jobmenu.choose": "Elije un trabajo:\n\n",
+	"pija3.jobmenu.tutorial": "\n\nElije tu trabajo haciendo clic.",
+	"pija3.jobmenu.alert": "⚠Los trabajos son permanentes⚠",
+	"pija3.jobmenu.description": "\nDescripción:\n",
+	"pija3.jobmenu.tools": "\n\nHerramientas:\n",
+	"pija3.jobmenu.categories": "Categorias:\n\n",
+
+	"pija3.jobmenu.category.normal": "Trabajos humildes",
+	"pija3.jobmenu.category.badguys": "Maleantes",
+	"pija3.jobmenu.category.government": "Gobierno",
+
+	"pija3.jobmenu.job.farmer.title": "§6Granjero",
+	"pija3.jobmenu.job.farmer.description": "Siembra",
+	"pija3.jobmenu.job.farmer.tools": "-Hazada\n-Semillas\n-Cubo de agua",
+
+	"pija3.jobmenu.job.miner.title": "§7Minero",
+	"pija3.jobmenu.job.miner.description": "Pica",
+	"pija3.jobmenu.job.miner.tools": "-Pico de hierro\n-Antorchas",
+
+	"pija3.jobmenu.job.fisherman.title": "§3Pescador",
+	"pija3.jobmenu.job.fisherman.description": "Tira la caña y pesca.",
+	"pija3.jobmenu.job.fisherman.tools": "-Caña de pescar",
+
+	"pija3.jobmenu.job.police.title": "§9Policía",
+	"pija3.jobmenu.job.police.description": "Patrulla las calles y detén a los delincuentes",
+	"pija3.jobmenu.job.police.tools": "-Traje policial\n-Porra\n-Escudo policial\n-Taser",
 
 
-  "advancements.toast.goal": "Notificación"
+	"pija3.jobmenu.job.criminal.title": "§cDelincuente",
+	"pija3.jobmenu.job.criminal.description": "Roba, trafica, mata...",
+	"pija3.jobmenu.job.criminal.tools": "-nose",
+
+
+	"advancements.toast.goal": "Notificación"
 }

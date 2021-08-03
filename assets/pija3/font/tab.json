@@ -1,49 +1,49 @@
 {
-  "providers": [
-    {
-      "type": "bitmap",
-      "file": "pija3:gui/tab/logo.png",
-      "height": 50,
-      "ascent": 6,
-      "chars": [
-        "1"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "pija3:gui/tab/gray_top_overlay.png",
-      "height": 446,
-      "ascent": 381,
-      "chars": [
-        "2"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "pija3:gui/tab/tablist_main_background.png",
-      "height": 238,
-      "ascent": 33,
-      "chars": [
-        "3"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "pija3:gui/tab/tablist_playerlist_background.png",
-      "height": 619,
-      "ascent": 277,
-      "chars": [
-        "4"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "pija3:gui/tab/transparent_texture.png",
-      "height": 4096,
-      "ascent": 381,
-      "chars": [
-        "5"
-      ]
-    }
-  ]
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "pija3:gui/tab/logo.png",
+			"height": 50,
+			"ascent": 6,
+			"chars": [
+				"1"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "pija3:gui/tab/gray_top_overlay.png",
+			"height": 446,
+			"ascent": 381,
+			"chars": [
+				"2"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "pija3:gui/tab/tablist_main_background.png",
+			"height": 238,
+			"ascent": 33,
+			"chars": [
+				"3"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "pija3:gui/tab/tablist_playerlist_background.png",
+			"height": 619,
+			"ascent": 277,
+			"chars": [
+				"4"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "pija3:gui/tab/transparent_texture.png",
+			"height": 4096,
+			"ascent": 381,
+			"chars": [
+				"5"
+			]
+		}
+	]
 }

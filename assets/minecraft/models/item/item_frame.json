@@ -1,10 +1,20 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/item_frame"
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data": 600}, "model": "pija3:item/icon/discord"},
-        {"predicate": {"custom_model_data": 777}, "model": "pija3:item/puerta_reja_corredera"}
-    ]
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/item_frame"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 600
+			},
+			"model": "pija3:item/icon/discord"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 777
+			},
+			"model": "pija3:item/puerta_reja_corredera"
+		}
+	]
 }

@@ -1,13 +1,13 @@
 {
-  "providers": [
-    {
-      "type": "bitmap",
-      "file": "pija3:fx/black.png",
-      "height": 700,
-      "ascent": 128,
-      "chars": [
-        "1"
-      ]
-    }
-  ]
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "pija3:fx/black.png",
+			"height": 700,
+			"ascent": 128,
+			"chars": [
+				"1"
+			]
+		}
+	]
 }

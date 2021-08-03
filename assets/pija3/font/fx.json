@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "pija3:fx/black.png",
+      "ascent": 128,
+      "height": 700,
+      "chars": [
+        "1"
+      ]
+    }
+  ]
+}

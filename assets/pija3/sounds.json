@@ -1,0 +1,9 @@
+{
+  "notificacion": {
+    "sounds": [
+      "pija3:notificacion/drip2",
+      "pija3:notificacion/drip3",
+      "pija3:notificacion/drip4"
+    ]
+  }
+}

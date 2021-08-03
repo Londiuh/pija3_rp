@@ -1,0 +1,49 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "pija3:gui/tab/logo.png",
+      "ascent": 6,
+      "height": 50,
+      "chars": [
+        "1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pija3:gui/tab/gray_top_overlay.png",
+      "ascent": 381,
+      "height": 446,
+      "chars": [
+        "2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pija3:gui/tab/tablist_main_background.png",
+      "ascent": 33,
+      "height": 238,
+      "chars": [
+        "3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pija3:gui/tab/tablist_playerlist_background.png",
+      "ascent": 277,
+      "height": 619,
+      "chars": [
+        "4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "pija3:gui/tab/transparent_texture.png",
+      "ascent": 381,
+      "height": 4096,
+      "chars": [
+        "5"
+      ]
+    }
+  ]
+}

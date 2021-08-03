@@ -35,6 +35,1821 @@
 			"chars": [
 				"\uEff4"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:alarmclock.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"⏰"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:alien.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"👽"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:angry.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😡"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:angry1.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😤"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:angry2.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😠"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:angry3.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤬"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:anxious.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😰"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:atm.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🏧"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:avocado.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🥑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:bacon.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🥓"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:baguette.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🥖"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:bandage.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤕"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:bat.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🦇"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:biceps.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"💪"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:biohazard.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"☣"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:blood.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🩸"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:blush.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😳"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:bye.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"👋"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:callme.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤙"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:carrot.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🥕"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:chair.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🪑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:check.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"✅"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:chick.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🐥"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:chick1.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🐤"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:chick2.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🐣"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:chicken.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🐔"
+			]
+		},
+		
+		{
+			"type": "bitmap",
+			"file": "twemoji:chickenleg.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🍗"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:clap.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"👏"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:coffin.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"⚰️"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:cold.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🥶"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:confused.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😕"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:confused1.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😖"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:cowboy.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤠"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:crab.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🦀"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:crazy.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤪"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:croissant.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🥐"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:crossedfingers.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤞"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:cry.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😢"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:cry1.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😭"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:crycat.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😿"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:cucumber.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🥒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:dead.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😵"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:dead1.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"☠"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:dollar.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"💵"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:drops.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"💦"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:duck.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🦆"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:eagle.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🦅"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:eggplant.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🍆"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:evil.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😈"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:explodehead.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤯"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:eyes.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"👀"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:facemask.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😷"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:facepalm.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤦"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:fear.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😨"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:fear1.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😱"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:featcat.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🙀"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:finger.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"👆"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:fire.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🔥"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:fish.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🐟",
+				"🐠"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:flamingo.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🦩"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:x.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"❌"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:frown.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😦"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:frown3.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"☹️"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:frown4.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😫"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:frown5.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😔"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:giraffe.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🦒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:halo.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😇"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:hamburger.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🍔"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:handshake.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤝"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:heart.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"❤️"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:heart1.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"💔"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:heart2.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"❤"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:heart3.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"💜"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:heart4.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"💚"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:heart5.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"💛"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:heart6.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"💖"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:hehe.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😏"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:hot.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🥵"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:hourglass.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"⏳"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:hourglass1.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"⌛"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:hg.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤗"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:ice.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🧊"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:idk.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤷"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:ill.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:inlove.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🥰"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:inlove1.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😍"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:inlovecat.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😻"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:jackolantern.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🎃"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:kebab.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🥙"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:kiss.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😘"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:kiss1.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😚"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:kiss2.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😗"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:laugh.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😂"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:laugh2.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😅"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:laugh3.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤣"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:laugh4.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤭"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:laughcat.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😹"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:lion.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🦁"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:lock.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🔒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:luck.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🍀"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:lying.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤥"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:mage.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🧙"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:medal.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🎖",
+				"🏅",
+				"🥇"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:mmh.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤤"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:moneybag.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"💰"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:moneyface.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:monkey1.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🙈"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:monkey2.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🙉"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:monkey3.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🙊"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:monocle.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🧐"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:moon.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🌑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:moon1.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🌙"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:moon2.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🌜"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:moon3.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🌛"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:moon4.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🌚"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:moon5.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🌝"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:nausea.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤢"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:nerd.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤓"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:neutral.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😐"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:no.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🙅"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:no1.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"👎"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:noentry.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"⛔"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:noexpression.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:nomouth.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😶"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:ok.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"👌"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:ok1.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"👍"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:owl.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🦉"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:pan.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🥘"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:party.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🎉"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:party1.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🥳"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:peach.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🍑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:pencil.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"✏️"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:pick.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"⛏"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:pig.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🐖"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:pizza.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🍕"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:please.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🥺"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:poo.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"💩"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:potato.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🥔"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:prohibited.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🚫"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:puke.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤮"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:punch.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"👊"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:radioactie.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"☢"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:raisedfist.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"✊"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:raisedhand.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤚"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:riceball.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🍙"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:robot.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤖"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:rock.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤘"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:rolling.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🙄"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:sad.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😥"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:salad.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🥗"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:salt.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🧂"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:scorpion.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🦂"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:shark.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🦈"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:shh.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤫"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:shrimp.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🦐"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:sleeping.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😴"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:small.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤏"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:smile.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😀"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:smile2.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😁"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:smile3.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😃"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:smile4.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😄"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:smile5.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"☺",
+				"😊"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:smile6.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🙂"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:smilecat.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😺"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:raisedhand.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤚"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:sneeze.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤧"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:snowflake.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"❄"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:soccerball.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"⚽"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:sparkles.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"✨"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:squid.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🦑"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:star.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"⭐"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:stareyes.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤩"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:sun.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"☀️"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:sunglasses.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😎"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:surprised.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😯"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:sushi.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🍣"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:sweat.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😓"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:think.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤔"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:tired.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😩"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:tongue.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😛"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:tree.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🎄"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:trex.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🦖"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:turkey.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🦃"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:twofingers.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"✌"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:unamused.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:unicorn.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🦄"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:unlock.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🔓"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:upsidedown.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🙃"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:voltage.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"⚡"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:warning.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"⚠"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:wc.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🚾"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:what.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤨"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:wink.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😉"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:woozy.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🥴"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:write.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"✍"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:x.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"❌"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:xd.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😆"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:yawn.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🥱"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:yum.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"😋"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "twemoji:zebra.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🦓"
+			]
+		},
+		
+		{
+			"type": "bitmap",
+			"file": "twemoji:zip.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"🤐"
+			]
 		}
 	]
 }

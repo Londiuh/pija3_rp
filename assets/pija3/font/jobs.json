@@ -1,49 +1,49 @@
 {
-  "providers": [
-    {
-      "type": "bitmap",
-      "file": "pija3:jobs/police.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "1"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "pija3:jobs/criminal.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "2"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:item/wheat.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "3"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:item/iron_pickaxe.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "4"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:item/fishing_rod.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "5"
-      ]
-    }
-  ]
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "pija3:jobs/police.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"1"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "pija3:jobs/criminal.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"2"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/wheat.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"3"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/iron_pickaxe.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"4"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/fishing_rod.png",
+			"height": 9,
+			"ascent": 8,
+			"chars": [
+				"5"
+			]
+		}
+	]
 }

@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "pija3",
 	"textures": {
-		"2": "item/cop_shield",
-		"particle": "item/cop_shield",
-		"texture2": "block/light_blue_stained_glass"
+		"2": "pija3:item/police_shield",
+		"particle": "pija3:item/police_shield",
+		"texture2": "minecraft:block/light_blue_stained_glass"
 	},
 	"elements": [
 		{
@@ -136,14 +136,6 @@
 				"up": {"uv": [7, 9.5, 9, 11.5], "texture": "#texture2"},
 				"down": {"uv": [7, 4.5, 9, 6.5], "texture": "#texture2"}
 			}
-		}
-	],
-	"overrides": [
-		{
-			"predicate": {
-				"blocking": 1
-			},
-			"model": "item/police/police_shield_1b"
 		}
 	],
 	"display": {

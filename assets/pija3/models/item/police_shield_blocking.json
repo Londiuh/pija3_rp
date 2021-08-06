@@ -1,0 +1,43 @@
+{
+	"parent": "pija3:item/police_shield",
+	"gui_light": "front",
+	"textures": {
+		"particle": "block/dark_oak_planks"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [4, 0, 2.7826],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [4, -2.304, 2.7826],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"firstperson_righthand": {
+			"translation": [0.0009, -2.781, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [0.0009, -2.781, 0],
+			"scale": [-1.5, 1.5, 1.5]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"scale": [2, 2, 2]
+		},
+		"gui": {
+			"rotation": [0, 180, 0]
+		},
+		"head": {
+			"rotation": [-90, 180, 0],
+			"translation": [0, 10.434, 0],
+			"scale": [2.5, 2.5, 2.5]
+		},
+		"fixed": {
+			"translation": [0, 0, -3.478],
+			"scale": [3, 3, 3]
+		}
+	}
+}

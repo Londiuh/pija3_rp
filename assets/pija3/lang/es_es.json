@@ -1,9 +1,6 @@
 {
 	"_author": "londiuh",
 
-	"n": "\n",
-	"2n": "\n\n",
-
 	"advancements.pija3.root.title": "Logros de Panorama",
 	"advancements.pija3.discord.title": "Discord",
 	"advancements.pija3.discord.description": "Obtén un enlace a nuestro Discord usando /discord",
@@ -27,7 +24,6 @@
 	"pija3.commands.job.noSuchJob": "Ese trabajo no existe",
 
 
-	"pija3.jobmenu.choose": "Elije un trabajo:\n\n",
 	"pija3.jobmenu.tutorial": "\n\nElije tu trabajo haciendo clic.",
 	"pija3.jobmenu.alert": "⚠Los trabajos son permanentes⚠",
 	"pija3.jobmenu.description": "\nDescripción:\n",
@@ -39,25 +35,24 @@
 	"pija3.jobmenu.category.government": "Gobierno",
 
 	"pija3.jobmenu.job.farmer.title": "§6Granjero",
-	"pija3.jobmenu.job.farmer.description": "Siembra",
+	"pija3.jobmenu.job.farmer.description": "Ten vida tranquila. Cultiva y gana dinero vendiendolos",
 	"pija3.jobmenu.job.farmer.tools": "-Hazada\n-Semillas\n-Cubo de agua",
 
 	"pija3.jobmenu.job.miner.title": "§7Minero",
-	"pija3.jobmenu.job.miner.description": "Pica",
+	"pija3.jobmenu.job.miner.description": "Gana dinero minando",
 	"pija3.jobmenu.job.miner.tools": "-Pico de hierro\n-Antorchas",
 
 	"pija3.jobmenu.job.fisherman.title": "§3Pescador",
-	"pija3.jobmenu.job.fisherman.description": "Tira la caña y pesca.",
+	"pija3.jobmenu.job.fisherman.description": "Tira la caña y pesca. Vende tu pescado y gana dinero",
 	"pija3.jobmenu.job.fisherman.tools": "-Caña de pescar",
 
 	"pija3.jobmenu.job.police.title": "§9Policía",
 	"pija3.jobmenu.job.police.description": "Patrulla las calles y detén a los delincuentes",
 	"pija3.jobmenu.job.police.tools": "-Traje policial\n-Porra\n-Escudo policial\n-Taser",
 
-
 	"pija3.jobmenu.job.criminal.title": "§cDelincuente",
-	"pija3.jobmenu.job.criminal.description": "Roba, trafica, mata...",
-	"pija3.jobmenu.job.criminal.tools": "-nose",
+	"pija3.jobmenu.job.criminal.description": "Haz lo que te de la gana. Evita ser arrestado si haces algo ilegal",
+	"pija3.jobmenu.job.criminal.tools": "-Palanca",
 
 
 	"advancements.toast.goal": "Notificación"

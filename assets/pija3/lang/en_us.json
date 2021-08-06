@@ -1,9 +1,6 @@
 {
 	"_author": "londiuh",
 
-	"n": "\n",
-	"2n": "\n\n",
-
 	"advancements.pija3.root.title": "Panorama Advancements",
 	"advancements.pija3.discord.title": "Discord",
 	"advancements.pija3.discord.description": "Get an invite to our Discord server using /discord",
@@ -12,7 +9,7 @@
 	"notification.discord": "Join our discord using /discord",
 	"notification.promo": "Promote the server and obtain rewards",
 	"notification.promo_info": "More info with /promo",
-	"notification.rules": "Join our discord using /discord",
+	"notification.rules": "Follow the rules to avoid getting banned",
 	"notification.rules_read": "Read the rules using /rules",
 
 
@@ -23,11 +20,10 @@
 
 	"pija3.commands.discord.clickHere": "§aClick here to join our §9§lDiscord §r§aserver",
 
-	"pija3.commands.job.success": "Trabajo aplicado correctamente",
+	"pija3.commands.job.success": "Job applied successfully",
 	"pija3.commands.job.noSuchJob": "That job doesn't exist",
 
 
-	"pija3.jobmenu.choose": "Choose a job:\n\n",
 	"pija3.jobmenu.tutorial": "\n\nChoose a job clicking.",
 	"pija3.jobmenu.alert": "⚠Jobs are permanent⚠",
 	"pija3.jobmenu.description": "\nDescription:\n",
@@ -39,25 +35,24 @@
 	"pija3.jobmenu.category.badguys": "Bad guys",
 
 	"pija3.jobmenu.job.farmer.title": "§6Farmer",
-	"pija3.jobmenu.job.farmer.description": "Siembra",
+	"pija3.jobmenu.job.farmer.description": "Have a peaceful life. Grow crops and earn money selling them",
 	"pija3.jobmenu.job.farmer.tools": "-Hoe\n-Seeds\n-Water bucket",
 
 	"pija3.jobmenu.job.miner.title": "§7Miner",
-	"pija3.jobmenu.job.miner.description": "Pica",
+	"pija3.jobmenu.job.miner.description": "Earn money mining",
 	"pija3.jobmenu.job.miner.tools": "-Iron pickaxe\n-Torches",
 
 	"pija3.jobmenu.job.fisherman.title": "§3Fisherman",
-	"pija3.jobmenu.job.fisherman.description": "Tira la caña y pesca.",
+	"pija3.jobmenu.job.fisherman.description": "Throw the rod and fish. Sell your fish and earn money",
 	"pija3.jobmenu.job.fisherman.tools": "-Fishing rod",
 
 	"pija3.jobmenu.job.police.title": "§9Police",
-	"pija3.jobmenu.job.police.description": "Patrulla las calles y detén a los delincuentes",
-	"pija3.jobmenu.job.police.tools": "-Police siut\n-Police baton\n-Police shield\n-Taser",
-
+	"pija3.jobmenu.job.police.description": "Patrol the streets and arrest the criminals",
+	"pija3.jobmenu.job.police.tools": "-Police siut\n-Police baton\n-Police shield\n-Taser\n⚠Permanent tools⚠",
 
 	"pija3.jobmenu.job.criminal.title": "§cCriminal",
-	"pija3.jobmenu.job.criminal.description": "Roba, trafica, mata...",
-	"pija3.jobmenu.job.criminal.tools": "-nose",
+	"pija3.jobmenu.job.criminal.description": "Do what you want. Avoid getting arrested if you do something illegal",
+	"pija3.jobmenu.job.criminal.tools": "-Crowbar",
 
 
 	"advancements.toast.goal": "Notification"

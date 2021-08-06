@@ -1,9 +1,19 @@
 {
 	"_author": "londiuh",
 
+	"advancements.toast.goal": "Notification",
+
 	"advancements.pija3.root.title": "Panorama Advancements",
 	"advancements.pija3.discord.title": "Discord",
 	"advancements.pija3.discord.description": "Get an invite to our Discord server using /discord",
+
+
+	"dialog.mission.0.receptionist": "Hello. Are you flying to Pija3? Give me your passport and ticket",
+	"dialog.mission.0.welcome": "Welcome, welcome to Pija3. You're in Old City...",
+
+	
+	"event.npc_talking": "Person talking",
+	"event.megaphone_talking": "Megaphone talking",
 
 
 	"notification.discord": "Join our discord using /discord",
@@ -52,8 +62,5 @@
 
 	"pija3.jobmenu.job.criminal.title": "§cCriminal",
 	"pija3.jobmenu.job.criminal.description": "Do what you want. Avoid getting arrested if you do something illegal",
-	"pija3.jobmenu.job.criminal.tools": "-Crowbar",
-
-
-	"advancements.toast.goal": "Notification"
+	"pija3.jobmenu.job.criminal.tools": "-Crowbar"
 }

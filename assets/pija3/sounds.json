@@ -1,4 +1,21 @@
 {
+	"mission.0.receptionist.es": {
+		"subtitle": "event.npc_talking",
+		"sounds": [
+			{
+				"name": "pija3:mission/0/es/receptionist"
+			}
+		]
+	},
+	"mission.0.welcome.es": {
+		"subtitle": "event.megaphone_talking",
+		"sounds": [
+			{
+				"name": "pija3:mission/0/es/welcome",
+				"stream": true
+			}
+		]
+	},
 	"notificacion": {
 		"sounds": [
 			"pija3:notificacion/drip2",

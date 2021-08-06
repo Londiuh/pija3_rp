@@ -1,9 +1,19 @@
 {
 	"_author": "londiuh",
 
+	"advancements.toast.goal": "Notificación",
+
 	"advancements.pija3.root.title": "Logros de Panorama",
 	"advancements.pija3.discord.title": "Discord",
 	"advancements.pija3.discord.description": "Obtén un enlace a nuestro Discord usando /discord",
+
+
+	"dialog.mission.0.receptionist": "Hola ¿Vienes al vuelo hacia Pija3? Dame tu pasaporte y billete.",
+	"dialog.mission.0.welcome": "Bienvenido, bienvenido a Pija3. Estás en Old City...",
+
+
+	"event.npc_talking": "Persona hablando",
+	"event.megaphone_talking": "Megáfono hablando",
 
 
 	"notification.discord": "Únete a nuestro Discord con /discord",
@@ -52,8 +62,5 @@
 
 	"pija3.jobmenu.job.criminal.title": "§cDelincuente",
 	"pija3.jobmenu.job.criminal.description": "Haz lo que te de la gana. Evita ser arrestado si haces algo ilegal",
-	"pija3.jobmenu.job.criminal.tools": "-Palanca",
-
-
-	"advancements.toast.goal": "Notificación"
+	"pija3.jobmenu.job.criminal.tools": "-Palanca"
 }

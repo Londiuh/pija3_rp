@@ -24,6 +24,12 @@
                 "damage": 0.95
             },
             "model": "item/iron_axe/iron_axe_04"
-        }
+        },
+		{
+			"predicate": {
+				"custom_model_data": 1000001
+			},
+			"model": "pija3:item/palanca"
+		}
     ]
 }

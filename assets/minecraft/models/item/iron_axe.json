@@ -29,7 +29,6 @@
 			"predicate": {
 				"custom_model_data": 1000001
 			},
-			"model": "pija3:item/palanca"
-		}
+			"model": "pija3:item/crowbar"
     ]
 }

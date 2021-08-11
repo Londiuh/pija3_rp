@@ -6,9 +6,15 @@
     "overrides": [
       {
         "predicate": {
-          "custom_model_data": 314101
+          "custom_model_data": 1000001
         },
         "model": "pija3:item/taser"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1000002
+        },
+        "model": "pija3:item/police_electric_club"
       }
     ]
 }

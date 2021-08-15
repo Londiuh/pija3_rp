@@ -15,6 +15,12 @@
           "custom_model_data": 1000002
         },
         "model": "pija3:item/police_electric_club"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1000003
+        },
+        "model": "pija3:item/stun_stick"
       }
     ]
 }

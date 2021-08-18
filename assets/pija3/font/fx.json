@@ -2,9 +2,9 @@
 	"providers": [
 		{
 			"type": "bitmap",
-			"file": "pija3:fx/black.png",
+			"file": "minecraft:misc/white.png",
 			"height": 700,
-			"ascent": 128,
+			"ascent": 350,
 			"chars": [
 				"1"
 			]

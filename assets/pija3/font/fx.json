@@ -3,8 +3,8 @@
 		{
 			"type": "bitmap",
 			"file": "minecraft:misc/white.png",
-			"height": 700,
-			"ascent": 350,
+			"height": 720,
+			"ascent": 360,
 			"chars": [
 				"1"
 			]

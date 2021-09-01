@@ -4,6 +4,10 @@
 	"advancements.toast.goal": "Notification",
 
 	"advancements.pija3.root.title": "Panorama Advancements",
+
+	"advancements.pija3.welcome.title": "Welcome",
+	"advancements.pija3.welcome.description": "Take a plane to pija3",
+
 	"advancements.pija3.discord.title": "Discord",
 	"advancements.pija3.discord.description": "Get an invite to our Discord server using /discord",
 
@@ -11,9 +15,19 @@
 	"dialog.mission.0.receptionist": "Hello. Are you flying to Pija3? Give me your passport and ticket",
 	"dialog.mission.0.welcome": "Welcome, welcome to Pija3. You're in Old City...",
 
-	
+
 	"event.npc_talking": "Person talking",
 	"event.megaphone_talking": "Megaphone talking",
+
+
+	"item.claimwand": "Land Claim Wand",
+	"item.claimblocks": "Claim Blocks",
+	"item.crowbar": "Crowbar",
+	"item.taser": "Taser",
+	"item.stun_stick": "Stun Stick",
+	"item.police_shied": "Police Shield",
+	"item.cheetos": "Cheetos",
+	"item.monster": "Monster Energy",
 
 
 	"notification.discord": "Join our discord using /discord",
@@ -22,6 +36,34 @@
 	"notification.rules": "Follow the rules to avoid getting banned",
 	"notification.rules_read": "Read the rules using /rules",
 
+
+	"mission.help.trigger": "§aGREEN §9indicates objectives",
+	"mission.completed": "Mission completed",
+	"mission.rewards": "Mission rewards",
+	"mission.new_objective": "New objective",
+
+	"mission.0.loading": "Loading...",
+	"mission.0.wakingup": "Waking up...",
+	"mission.0.traveling": "Taveling...",
+	"mission.0.landing": "Landing...",
+	"mission.0.objective.exit": "Exit the airport",
+	"mission.0.in_the_city": "In the city",
+	"mission.0.city_missions": "You can do missions",
+	"mission.0.city_meetup": "You can meetup with you friends",
+	"mission.0.city_buy": "You can buy special items",
+	"mission.0.missions": "Complete missions",
+	"mission.0.missions_complete": "And earn rewards",
+	"mission.0.city_travel": "Travel to the city",
+	"mission.0.city_command": "Using /city",
+	"mission.0.world_travel": "Travel to the survival world",
+	"mission.0.world_command": "Using /world",
+
+
+	"npc.officer.name": "Officer",
+	"npc.receptionist.name": "Recepcionist",
+
+
+	"pija3.commands.error.not_now": "You can't use this command in this moments",
 
 	"pija3.commands.city.success": "You have traveled to %s city. You're in %s",
 	"pija3.commands.city.playerCreated": "City built by %s",
@@ -32,6 +74,10 @@
 
 	"pija3.commands.job.success": "Job applied successfully",
 	"pija3.commands.job.noSuchJob": "That job doesn't exist",
+
+
+	"pija3.commands.world.traveling": "Taveling to the survival world...",
+	"pija3.commands.world.success": "You have traveled to the survival world",
 
 
 	"pija3.jobmenu.tutorial": "\n\nChoose a job clicking.",

@@ -11,20 +11,11 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "pija3:gui/tab/gray_top_overlay.png",
-			"height": 446,
-			"ascent": 381,
-			"chars": [
-				"2"
-			]
-		},
-		{
-			"type": "bitmap",
 			"file": "pija3:gui/tab/tablist_main_background.png",
 			"height": 238,
 			"ascent": 33,
 			"chars": [
-				"3"
+				"2"
 			]
 		},
 		{
@@ -32,6 +23,15 @@
 			"file": "pija3:gui/tab/tablist_playerlist_background.png",
 			"height": 619,
 			"ascent": 277,
+			"chars": [
+				"3"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "pija3:gui/tab/gray_top_overlay.png",
+			"height": 446,
+			"ascent": 381,
 			"chars": [
 				"4"
 			]

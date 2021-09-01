@@ -1,4 +1,12 @@
 {
+	"ambient.jet_landing": {
+		"subtitle": "",
+		"sounds": [
+			{
+				"name": "pija3:ambient/jet_landing"
+			}
+		]
+	},
 	"mission.0.receptionist.es": {
 		"subtitle": "event.npc_talking",
 		"sounds": [
@@ -12,7 +20,15 @@
 		"sounds": [
 			{
 				"name": "pija3:mission/0/es/welcome",
+				"attenuation_distance": 32,
 				"stream": true
+			}
+		]
+	},
+	"music.lightningchild": {
+		"sounds": [
+			{
+				"name": "pija3:music/lightningchild"
 			}
 		]
 	},

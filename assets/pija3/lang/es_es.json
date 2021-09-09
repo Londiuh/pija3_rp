@@ -12,6 +12,48 @@
 	"advancements.pija3.discord.description": "Obtén un enlace a nuestro Discord usando /discord",
 
 
+	"bookmenu.general.click": "Haz clic en una opción:",
+
+	"bookmenu.citymenu.cities": "Cities:\n\n",
+	"bookmenu.citymenu.place.cityhall": "Ayuntamiento",
+	"bookmenu.citymenu.place.policestation": "Comisaría",
+	"bookmenu.citymenu.place.kfc": "KFC",
+	"bookmenu.citymenu.place.park": "Parque",
+
+	"bookmenu.jobmenu.tutorial": "\n\nElije tu trabajo haciendo clic.",
+	"bookmenu.jobmenu.alert": "⚠Los trabajos son permanentes⚠",
+	"bookmenu.jobmenu.description": "\nDescripción:\n",
+	"bookmenu.jobmenu.tools": "\n\nHerramientas:\n",
+	"bookmenu.jobmenu.categories": "Categorias:\n\n",
+
+	"bookmenu.jobmenu.category.normal": "Trabajos humildes",
+	"bookmenu.jobmenu.category.badguys": "Maleantes",
+	"bookmenu.jobmenu.category.government": "Gobierno",
+
+	"bookmenu.jobmenu.job.farmer.title": "§6Granjero",
+	"bookmenu.jobmenu.job.farmer.description": "Ten vida tranquila. Cultiva y gana dinero vendiendolos",
+	"bookmenu.jobmenu.job.farmer.tools": "-Hazada\n-Semillas\n-Cubo de agua",
+
+	"bookmenu.jobmenu.job.miner.title": "§7Minero",
+	"bookmenu.jobmenu.job.miner.description": "Gana dinero minando",
+	"bookmenu.jobmenu.job.miner.tools": "-Pico de hierro\n-Antorchas",
+
+	"bookmenu.jobmenu.job.fisherman.title": "§3Pescador",
+	"bookmenu.jobmenu.job.fisherman.description": "Tira la caña y pesca. Vende tu pescado y gana dinero",
+	"bookmenu.jobmenu.job.fisherman.tools": "-Caña de pescar",
+
+	"bookmenu.jobmenu.job.police.title": "§9Policía",
+	"bookmenu.jobmenu.job.police.description": "Patrulla las calles y detén a los delincuentes",
+	"bookmenu.jobmenu.job.police.tools": "-Traje policial\n-Porra\n-Escudo policial\n-Taser",
+
+	"bookmenu.jobmenu.job.criminal.title": "§cDelincuente",
+	"bookmenu.jobmenu.job.criminal.description": "Haz lo que te de la gana. Evita ser arrestado si haces algo ilegal",
+	"bookmenu.jobmenu.job.criminal.tools": "-Palanca",
+
+	"bookmenu.missionaccept.question": "¿Quieres comenzar esta misión?",
+	"bookmenu.missionaccept.questionIntro": "¿Quieres jugar la misión de introducción?",
+
+
 	"dialog.mission.0.receptionist": "Hola ¿Vienes al vuelo hacia Pija3? Dame tu pasaporte y billete.",
 	"dialog.mission.0.welcome": "Bienvenido, bienvenido a Pija3. Estás en Old City...",
 
@@ -68,46 +110,38 @@
 
 	"pija3.commands.city.success": "Has viajado a ciudad %s. Estás en %s",
 	"pija3.commands.city.playerCreated": "Ciudad construida por %s",
-	"pija3.commands.city.unknownCity": "Ciudad desconocida",
-	"pija3.commands.city.unknownLocation": "Localización desconocida",
+	"pija3.commands.city.unknown": "Ciudad o lugar desconocido",
 
 	"pija3.commands.discord.clickHere": "§aHaz clic aquí para unirte a nuestro §9§lDiscord",
 
 	"pija3.commands.job.success": "Trabajo aplicado correctamente",
 	"pija3.commands.job.noSuchJob": "Ese trabajo no existe",
 
+	"pija3.commands.mission.acceptError": "¡Ya estás en una misión!",
+	"pija3.commands.mission.noMissions": "Ninguna misión que aceptar",
 
 	"pija3.commands.world.traveling": "Viajando hacia el mundo supervivencia...",
 	"pija3.commands.world.success": "Has viajado al mundo supervivencia",
 
 
-	"pija3.jobmenu.tutorial": "\n\nElije tu trabajo haciendo clic.",
-	"pija3.jobmenu.alert": "⚠Los trabajos son permanentes⚠",
-	"pija3.jobmenu.description": "\nDescripción:\n",
-	"pija3.jobmenu.tools": "\n\nHerramientas:\n",
-	"pija3.jobmenu.categories": "Categorias:\n\n",
+	"pija3.garabagekiller.warning": "Los items del suelo serán limpiados en %s",
+	"pija3.garabagekiller.cleared": "Los items del suelo han sido limpiados",
 
-	"pija3.jobmenu.category.normal": "Trabajos humildes",
-	"pija3.jobmenu.category.badguys": "Maleantes",
-	"pija3.jobmenu.category.government": "Gobierno",
+	"pija3.restart.warning": "El servidor se reiniciará en %s",
 
-	"pija3.jobmenu.job.farmer.title": "§6Granjero",
-	"pija3.jobmenu.job.farmer.description": "Ten vida tranquila. Cultiva y gana dinero vendiendolos",
-	"pija3.jobmenu.job.farmer.tools": "-Hazada\n-Semillas\n-Cubo de agua",
 
-	"pija3.jobmenu.job.miner.title": "§7Minero",
-	"pija3.jobmenu.job.miner.description": "Gana dinero minando",
-	"pija3.jobmenu.job.miner.tools": "-Pico de hierro\n-Antorchas",
+	"rule.rules": "Normas:",
+	"rule.hacks": "NO usar HACKS o BUGS",
+	"rule.lag": "NO LAGEAR el servidor",
+	"rule.griefing": "GRIFEAR no esta permitido",
+	"rule.multiacc": "Prohibido usar MULTI CUENTAS",
+	"rule.spam": "No SPAM",
 
-	"pija3.jobmenu.job.fisherman.title": "§3Pescador",
-	"pija3.jobmenu.job.fisherman.description": "Tira la caña y pesca. Vende tu pescado y gana dinero",
-	"pija3.jobmenu.job.fisherman.tools": "-Caña de pescar",
 
-	"pija3.jobmenu.job.police.title": "§9Policía",
-	"pija3.jobmenu.job.police.description": "Patrulla las calles y detén a los delincuentes",
-	"pija3.jobmenu.job.police.tools": "-Traje policial\n-Porra\n-Escudo policial\n-Taser",
-
-	"pija3.jobmenu.job.criminal.title": "§cDelincuente",
-	"pija3.jobmenu.job.criminal.description": "Haz lo que te de la gana. Evita ser arrestado si haces algo ilegal",
-	"pija3.jobmenu.job.criminal.tools": "-Palanca"
+	"time.seconds": "segundos",
+	"time.second": "segundo",
+	"time.minutes": "minutos",
+	"time.minute": "minuto",
+	"time.hours": "horas",
+	"time.hour": "hora"
 }

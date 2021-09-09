@@ -12,6 +12,48 @@
 	"advancements.pija3.discord.description": "Get an invite to our Discord server using /discord",
 
 
+	"bookmenu.general.click": "Click an option:",
+
+	"bookmenu.citymenu.cities": "Cities:\n\n",
+	"bookmenu.citymenu.place.cityhall": "City Hall",
+	"bookmenu.citymenu.place.policestation": "Police Station",
+	"bookmenu.citymenu.place.kfc": "KFC",
+	"bookmenu.citymenu.place.park": "Park",
+
+	"bookmenu.jobmenu.tutorial": "\n\nChoose a job clicking.",
+	"bookmenu.jobmenu.alert": "⚠Jobs are permanent⚠",
+	"bookmenu.jobmenu.description": "\nDescription:\n",
+	"bookmenu.jobmenu.tools": "\n\nTools:\n",
+	"bookmenu.jobmenu.categories": "Categories:\n\n",
+
+	"bookmenu.jobmenu.category.normal": "Humble Jobs",
+	"bookmenu.jobmenu.category.government": "Government",
+	"bookmenu.jobmenu.category.badguys": "Bad guys",
+
+	"bookmenu.jobmenu.job.farmer.title": "§6Farmer",
+	"bookmenu.jobmenu.job.farmer.description": "Have a peaceful life. Grow crops and earn money selling them",
+	"bookmenu.jobmenu.job.farmer.tools": "-Hoe\n-Seeds\n-Water bucket",
+
+	"bookmenu.jobmenu.job.miner.title": "§7Miner",
+	"bookmenu.jobmenu.job.miner.description": "Earn money mining",
+	"bookmenu.jobmenu.job.miner.tools": "-Iron pickaxe\n-Torches",
+
+	"bookmenu.jobmenu.job.fisherman.title": "§3Fisherman",
+	"bookmenu.jobmenu.job.fisherman.description": "Throw the rod and fish. Sell your fish and earn money",
+	"bookmenu.jobmenu.job.fisherman.tools": "-Fishing rod",
+
+	"bookmenu.jobmenu.job.police.title": "§9Police",
+	"bookmenu.jobmenu.job.police.description": "Patrol the streets and arrest the criminals",
+	"bookmenu.jobmenu.job.police.tools": "-Police siut\n-Police baton\n-Police shield\n-Taser\n⚠Permanent tools⚠",
+
+	"bookmenu.jobmenu.job.criminal.title": "§cCriminal",
+	"bookmenu.jobmenu.job.criminal.description": "Do what you want. Avoid getting arrested if you do something illegal",
+	"bookmenu.jobmenu.job.criminal.tools": "-Crowbar",
+
+	"bookmenu.missionaccept.question": "Do you want to start this mission?",
+	"bookmenu.missionaccept.questionIntro": "Do you want to play the intro mission?",
+
+
 	"dialog.mission.0.receptionist": "Hello. Are you flying to Pija3? Give me your passport and ticket",
 	"dialog.mission.0.welcome": "Welcome, welcome to Pija3. You're in Old City...",
 
@@ -45,7 +87,7 @@
 
 	"mission.0.loading": "Loading...",
 	"mission.0.wakingup": "Waking up...",
-	"mission.0.traveling": "Taveling...",
+	"mission.0.traveling": "Traveling...",
 	"mission.0.landing": "Landing...",
 	"mission.0.objective.exit": "Exit the airport",
 	"mission.0.in_the_city": "In the city",
@@ -68,46 +110,38 @@
 
 	"pija3.commands.city.success": "You have traveled to %s city. You're in %s",
 	"pija3.commands.city.playerCreated": "City built by %s",
-	"pija3.commands.city.unknownCity": "Unknown city",
-	"pija3.commands.city.unknownLocation": "Unknown location",
+	"pija3.commands.city.unknown": "Unknown city or place",
 
 	"pija3.commands.discord.clickHere": "§aClick here to join our §9§lDiscord §r§aserver",
 
 	"pija3.commands.job.success": "Job applied successfully",
 	"pija3.commands.job.noSuchJob": "That job doesn't exist",
 
+	"pija3.commands.mission.alreadyInMission": "You're already in a mission!",
+	"pija3.commands.mission.noMissions": "No mission to accept",
 
 	"pija3.commands.world.traveling": "Taveling to the survival world...",
 	"pija3.commands.world.success": "You have traveled to the survival world",
 
 
-	"pija3.jobmenu.tutorial": "\n\nChoose a job clicking.",
-	"pija3.jobmenu.alert": "⚠Jobs are permanent⚠",
-	"pija3.jobmenu.description": "\nDescription:\n",
-	"pija3.jobmenu.tools": "\n\nTools:\n",
-	"pija3.jobmenu.categories": "Categories:\n\n",
+	"pija3.garabagekiller.warning": "Ground items will be cleared in %s %s",
+	"pija3.garabagekiller.cleared": "Cleared ground items",
 
-	"pija3.jobmenu.category.normal": "Humble Jobs",
-	"pija3.jobmenu.category.government": "Government",
-	"pija3.jobmenu.category.badguys": "Bad guys",
+	"pija3.restart.warning": "Server will restart in %s %s",
 
-	"pija3.jobmenu.job.farmer.title": "§6Farmer",
-	"pija3.jobmenu.job.farmer.description": "Have a peaceful life. Grow crops and earn money selling them",
-	"pija3.jobmenu.job.farmer.tools": "-Hoe\n-Seeds\n-Water bucket",
 
-	"pija3.jobmenu.job.miner.title": "§7Miner",
-	"pija3.jobmenu.job.miner.description": "Earn money mining",
-	"pija3.jobmenu.job.miner.tools": "-Iron pickaxe\n-Torches",
+	"rule.rules": "Rules:",
+	"rule.hacks": "Don't use HACKS or BUGS",
+	"rule.lag": "Don't LAG the server",
+	"rule.griefing": "Griefing isn't allowed",
+	"rule.multiacc": "Multi accounts aren't allowed",
+	"rule.spam": "Don't SPAM",
 
-	"pija3.jobmenu.job.fisherman.title": "§3Fisherman",
-	"pija3.jobmenu.job.fisherman.description": "Throw the rod and fish. Sell your fish and earn money",
-	"pija3.jobmenu.job.fisherman.tools": "-Fishing rod",
 
-	"pija3.jobmenu.job.police.title": "§9Police",
-	"pija3.jobmenu.job.police.description": "Patrol the streets and arrest the criminals",
-	"pija3.jobmenu.job.police.tools": "-Police siut\n-Police baton\n-Police shield\n-Taser\n⚠Permanent tools⚠",
-
-	"pija3.jobmenu.job.criminal.title": "§cCriminal",
-	"pija3.jobmenu.job.criminal.description": "Do what you want. Avoid getting arrested if you do something illegal",
-	"pija3.jobmenu.job.criminal.tools": "-Crowbar"
+	"time.seconds": "seconds",
+	"time.second": "second",
+	"time.minutes": "minutes",
+	"time.minute": "minute",
+	"time.hours": "hours",
+	"time.hour": "hour"
 }

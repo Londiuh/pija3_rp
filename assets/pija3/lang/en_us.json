@@ -14,7 +14,9 @@
 
 	"bookmenu.general.click": "Click an option:",
 
-	"bookmenu.citymenu.cities": "Cities:\n\n",
+	"bookmenu.citymenu.clickTravel": "Click to travel",
+	"bookmenu.citymenu.clickSee": "Click to see places",
+	"bookmenu.citymenu.cities": "Select a City:",
 	"bookmenu.citymenu.place.cityhall": "City Hall",
 	"bookmenu.citymenu.place.policestation": "Police Station",
 	"bookmenu.citymenu.place.kfc": "KFC",

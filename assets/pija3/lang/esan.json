@@ -90,8 +90,8 @@
 	"mission.0.loading": "Cargando...",
 	"mission.0.wakingup": "Despertando...",
 	"mission.0.traveling": "Taveling...",
-	"mission.0.atterizando": "Aterrizando...",
-	"mission.0.exit_airport": "Sal del aeropuerto",
+	"mission.0.landing": "Aterrizando...",
+	"mission.0.objective.exit": "Sal del aeropuerto",
 	"mission.0.in_the_city": "En la ciudad",
 	"mission.0.city_missions": "Puedes hacer misiones",
 	"mission.0.city_meetup": "Puedes quedar con tus amigos",
@@ -109,6 +109,10 @@
 
 
 	"pija3.commands.error.not_now": "No puedes usar este comando en estos momentos",
+
+	"pija3.commands.back.error": "No tienes ninguna muerte reciente",
+	"pija3.commands.back.cooldown": "Debes esperar %s segundos para poder ir al lugar de tu muerte",
+	"pija3.commands.back.success": "Teletransportado al lugar de tu última muerte exitosamente",
 
 	"pija3.commands.city.success": "Has viajado a ciudad %s. Estás en %s",
 	"pija3.commands.city.playerCreated": "Ciudad construida por %s",

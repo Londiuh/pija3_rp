@@ -110,6 +110,10 @@
 
 	"pija3.commands.error.not_now": "You can't use this command in this moments",
 
+	"pija3.commands.back.error": "You don't have any recent death",
+	"pija3.commands.back.cooldown": "You have to wait %s seconds before you can teleport to your death location",
+	"pija3.commands.back.success": "Succesfully teleported to your last death location",
+
 	"pija3.commands.city.success": "You have traveled to %s city. You're in %s",
 	"pija3.commands.city.playerCreated": "City built by %s",
 	"pija3.commands.city.unknown": "Unknown city or place",
